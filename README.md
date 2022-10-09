@@ -1,1 +1,1 @@
-# Egyptian_Fraction
+# Egyptian Fraction
